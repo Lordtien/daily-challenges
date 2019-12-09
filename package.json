@@ -1,0 +1,30 @@
+{
+  "name": "daily-challenges",
+  "version": "1.0.0",
+  "description": "Repository for keeping record of daily questions solved",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lordtien/daily-challenges.git"
+  },
+  "author": "Nitin Pawar (nitinpawarme@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lordtien/daily-challenges/issues"
+  },
+  "homepage": "https://github.com/Lordtien/daily-challenges#readme",
+  "dependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "babel": "^6.23.0",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "jest": "^24.9.0"
+  }
+}
