@@ -13,6 +13,7 @@ const revInt = (x) => {
   return res;
 };
 
+// ALternate solution without converting the number to a string
 // eslint-disable-next-line no-unused-vars
 const isPalindromeAlternate = (x) => {
   if (x < 0) {
